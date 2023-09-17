@@ -1,8 +1,13 @@
-# Robotics Research Engineer & Ph.D. Candidate
+# Ph.D. Candidate & Robotics Research Engineer
+
+### About Me
+
+I'm Avishkar Seth, a second-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop an autonomous drone equipped with advanced computer vision for mid-air item transfers.
+
 
 - **Coding Languages**: Python, C/C++, HTML, MATLAB
 - **Software Expertise**: ROS, Gazebo, Fusion 360 (CAD)
-- **Hardware Mastery**: 
+- **Hardware Prototyping**: 
   - SBCs: Raspberry Pi, Jetson Nano
   - Embedded Platforms: Arduino, Teensy, ESP32
   - Flight Control: Pixhawk
