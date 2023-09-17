@@ -59,13 +59,13 @@ _July 2022 - Nov 2022_
 - Served as a lab tutor for the sixth SPINE unit, a curriculum designed to cultivate professional acumen, transferable competencies, and employability.
 - The unit blends online modules with hands-on, project-based learning activities and is co-facilitated by a team of academic experts.
 
-### ☀ Solar Industry @ [Quality Solar Sydney](https://www.qualitysolarsydney.com.au/)  
+### ☀ Web Developer @ [Quality Solar Sydney](https://www.qualitysolarsydney.com.au/)  
 _March 2019 - Dec 2020_  
 - Worked at Quality Electrical Group, led by Mr. Ali Shalkouhi.
 - Responsibilities included designing the entire WordPress website, executing SEO strategies, conducting data analytics, and overseeing Google Business and Facebook advertising campaigns.
 - Also managed the company's LinkedIn profile and client database to drive sales.
 
-## 📚 Research Projects
+## 📚 Major Research Projects
 
 ### 📦 [Drone High-Rise Aerial Delivery](https://www.mdpi.com/2504-446X/7/5/300)  
 - Developed a novel drone delivery system to address the unique challenges of delivering packages to multi-story apartments with balconies.
@@ -73,10 +73,44 @@ _March 2019 - Dec 2020_
 - The drone features a 295 mm frame, stereo camera, and ranging sensor.
 - Implemented machine learning with a YOLOv5 model for marker recognition, achieving 95% accuracy and 398 ms detection time in outdoor tests.
 
+<!---
 ### 🚁 [Vertical Trajectory Analysis](https://link.springer.com/chapter/10.1007/978-3-031-29871-4_48)  
 - Co-authored a study on optimizing urban drone delivery via autonomous vertical trajectory scanning.
 - Developed a real-time visual recognition framework using QR codes to identify apartment levels and units.
 - Tested across 3 levels and 10 QR codes, the study compared 4 trajectory patterns, finding the parallel path most efficient for area coverage and speed.
+--->
+
+### 🚗 [1/10th Scale Autonomous Vehicle Based on CNN](https://sciendo.com/article/10.21307/ijssis-2020-021?tab=articoli-recenti)  
+_Authors: Avishkar Seth, Alice James, Subhas C Mukhopadhyay_  
+_Publication Date: 2020/1_  
+- Studied hardware prototyping for autonomous ground robots for different applications using CNN based computer vision system.
+- Explored the concept of autonomous vehicles, both on-road and off-road (AUGV).
+- Focused on path recognition, vehicle detection, and passenger transport.
+
+### 🛰 [TrackInk: IoT-Enabled Real-Time Object Tracking](https://www.mdpi.com/1424-8220/22/2/608)  
+_Authors: Cameron Aume, Keith Andrews, Shantanu Pal, Alice James, Avishkar Seth, Subhas Mukhopadhyay_  
+_Publication Date: 2022/1_  
+- Developed 'TrackInk' for real-time IoT object tracking in space.
+- Capable of pointing at and photographing visible satellites, including the ISS.
+- Utilizes sensor data for geolocation and 3D orientation.
+- Communicates with ThingSpeak for cloud-based data analysis.
+
+### 📘 [IoT System Design: Project Based Approach](https://doi.org/10.1007/978-3-030-85863-6)  
+_Authors: Alice James, Avishkar Seth, Subhas Chandra Mukhopadhyay_  
+_Publication Date: 2021/9/27_  
+- Comprehensive guide on IoT system design from sensors to cloud network.
+- Covers wireless communication, machine learning, and AI in IoT.
+- Aimed at upper-level students, researchers, and engineers.
+- Published by Springer, part of Smart Sensors, Measurement and Instrumentation series.
+- 15k accesses and 5 citations as of 2023.
+
+### 🦾 [Wearable Sensing System for Real-time 3D Posture Estimation](https://ieeexplore.ieee.org/abstract/document/9611778)  
+_Authors: Avishkar Seth, Alice James, Subhas Mukhopadhyay_  
+_Publication Date: 2021/10/28_  
+- Introduces a wearable system for real-time 3D posture estimation in lower back healthcare.
+- Utilizes BLE technology and IMU sensors for wireless communication and position tracking.
+- Aims to reduce hospitalization costs and enable self-rehabilitation.
+- Presented at 2021 IEEE International Symposium on Robotic and Sensors Environments (ROSE).
 
 <!---
 ## Work Experience- Research @ Macquarie University
@@ -124,10 +158,101 @@ comments syntax
 --->
 
 
-## Talks & Lectures
-- Processing...
+## 📚 Research Publications
+
+### 2023
+
+#### 🚁 [Drone High-Rise Aerial Delivery with Vertical Grid Screening](https://doi.org/10.3390%2Fdrones7050300)
+- **Journal**: Drones
+- **Volume**: 7, **Issue**: 5, **Pages**: 300
+- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
+- **DOI**: 10.3390/drones7050300
+
+### 2022
+
+#### 🚁 [Vertical Trajectory Analysis Using QR Code Detection for Drone Delivery Application](https://link.springer.com/chapter/10.1007/978-3-031-29871-4_48)
+- **Conference**: International Conference on Sensing Technology
+- **Publisher**: Springer Nature Switzerland, **Year**: 2022
+- **Authors**: Avishkar Seth, Alice James, Subhas Mukhopadhyay
+
+#### 🌐 [IoT System Design: Project Based Approach](https://doi.org/10.1007/978-3-030-85863-6)
+- **Journal**: Smart Sensors, Measurement and Instrumentation
+- **Volume**: 41
+- **Authors**: Alice James, Avishkar Seth, Subhas C. Mukhopadhyay
+
+#### 🛰️ [TrackInk: An IoT-Enabled Real-Time Object Tracking System in Space](https://www.mdpi.com/1448072)
+- **Journal**: Sensors
+- **Volume**: 22, **Issue**: 2
+- **Authors**: Cameron Aume, Keith Andrews, Shantanu Pal, Alice James, Avishkar Seth, Subhas Mukhopadhyay
+
+### 2021
+
+#### 🤖 [Realtime Hand Landmark Tracking to Aid Development of a Prosthetic Arm for Reach and Grasp Motions](https://ieeexplore.ieee.org/document/9611777)
+- **Conference**: IEEE International Symposium on Robotic and Sensors Environments, ROSE 2021
+- **Authors**: Alice James, Avishkar Seth, Subhas C. Mukhopadhyay
+
+#### 🦾 [Wearable Sensing System to perform Realtime 3D posture estimation for lower back healthcare](https://ieeexplore.ieee.org/document/9611778)
+- **Conference**: IEEE International Symposium on Robotic and Sensors Environments, ROSE 2021
+- **Authors**: Avishkar Seth, Alice James, Subhas Mukhopadhyay
+
+#### 🤖 [Autonomous Ground Vehicle for Off-the-Road Applications Based on Neural Network](https://doi.org/10.1007/978-981-16-3368-3_27)
+- **Conference**: Proceedings of International Conference on Computational Intelligence and Computing
+- **Series**: Algorithms for Intelligent Systems
+- **Publisher**: Springer, Singapore
+- **Authors**: Avishkar Seth, Alice James, Subhas Mukhopadhyay
 
 
-## Publications
-1. Seth, A.; James, A.; Kuantama, E.; Mukhopadhyay, S.; Han, R. Drone High-Rise Aerial Delivery with Vertical Grid Screening. Drones 2023, 7, 300. https://doi.org/10.3390/drones7050300
-- Processing...
+### 2020
+
+#### 🚗 [1/10th scale autonomous vehicle based on convolutional neural network](https://sciendo.com/article/10.21307/ijssis-2020-021)
+- **Journal**: International Journal on Smart Sensing and Intelligent Systems
+- **Volume**: 13, **Issue**: 1, **Pages**: 1-17
+- **Authors**: Avishkar Seth, Alice James, Subhas Mukhopadhyay
+
+#### 🌐 [IoT enabled sensor node: a tutorial paper](https://sciendo.com/article/10.21307/ijssis-2020-022)
+- **Journal**: International Journal on Smart Sensing and Intelligent Systems
+- **Volume**: 13, **Issue**: 1, **Pages**: 1-18
+- **Authors**: Alice James, Avishkar Seth, Subhas C. Mukhopadhyay
+
+
+## 🏆 Achievements
+
+### Patents
+
+#### 🥇 [Mid-air Drone to Drone Balanced Item Handoff]
+- **Provisional Patent Filed**: MQC Ref: 2023005
+- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
+
+#### 🥇 [Intelligent and adaptive balanced lift via drone swarms]
+- **Provisional Patent Filed**: MQC Ref: 2023005
+- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
+
+### Awards
+
+#### 🥇 [Hackathon 2020 - Big Data Society, Macquarie University](#)
+- **Year**: March 2020
+- **Institution**: Big Data Society, Macquarie University
+- **Prize**: Second Place, Cash Prize of $1,700
+- **Description**: Won second place in an AI-Enabled Education Hackathon.
+
+### Certificates
+
+#### 🛩️ [Summer Training Program on Quadrotor and RC Aircraft](https://www.skyfilabs.com/verify-certificate/44390012)
+- **Certificate No**: 44390012
+- **Permanent Link**: [Skyfi Labs Certificate Verification](https://www.skyfilabs.com/verify-certificate/44390012)
+
+## 🤝 Volunteering
+
+### IEEE- Macquarie, Sydney
+- **Role**: Vice-Chair
+- **Time**: Feb 2019 – Now
+- **Duties**: Seminars, student engagement, conference representation.
+
+### IEEE Women in Engineering, Sydney
+- **Role**: Secretary
+- **Time**: Feb 2019 – Now
+- **Duties**: Social media, website, event planning.
+
+### Venture Cafe, Sydney
+- **Role**: Ambassador
+- **Time**: Aug 2019 – Dec 2021
