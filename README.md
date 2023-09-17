@@ -1,5 +1,4 @@
 # Robotics Engineer
-# at https://www.mqdronelab.com/
 
 #### Technical Skills: Python, MATLAB, C++, ROS
 
