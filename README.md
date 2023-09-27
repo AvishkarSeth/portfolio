@@ -1,4 +1,4 @@
-# Ph.D. Candidate & Robotics Research Engineer
+# [Ph.D. Candidate & Robotics Research Engineer](https://avishkarseth.github.io/#home)
 
 ### About Me
 
