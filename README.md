@@ -256,17 +256,22 @@ comments syntax
 
 ### International Conference on Sensing Technology (ICST)
 - **Role**: Reviewer
-- **Time**: Feb 2022 – Now
+- **Time**: Feb 2022 – Present
 - **Duties**: Review research papers and articles for the ICST conference.
+
+### School of Engineering & Computing, Macquarie University
+- **Role**: Co- Supervisor
+- **Time**: Feb 2021 – Present
+- **Duties**: Co- Supervise undergraduate and postgraduate students from engineering and computing departments in Macquarie University. 
 
 ### IEEE- Macquarie, Sydney
 - **Role**: Vice-Chair
-- **Time**: Feb 2019 – Now
+- **Time**: Feb 2019 – Present
 - **Duties**: Seminars, student engagement, conference representation.
 
 ### IEEE Women in Engineering, Sydney
 - **Role**: Secretary
-- **Time**: Feb 2019 – Now
+- **Time**: Feb 2019 – Present
 - **Duties**: Social media, website, event planning.
 
 ### Venture Cafe, Sydney
