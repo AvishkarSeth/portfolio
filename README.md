@@ -4,16 +4,14 @@
 
 I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a second-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop an autonomous drone equipped with advanced computer vision for mid-air item transfers.
 
-
+- **Fundamental Concepts**: Electronic Circuits, IoT, Wireless Principles, Computer Vision, Kinematics, Dynamics, Quadrotor Control
 - **Coding Languages**: Python, C/C++, HTML, MATLAB
-- **Software Expertise**: ROS, Gazebo, Fusion 360 (CAD)
-- **Hardware Prototyping**: 
-  - SBCs: Raspberry Pi, Jetson Nano
-  - Embedded Platforms: Arduino, Teensy, ESP32
-  - Flight Control: Pixhawk
-  - Sensor Tech: RPLidar, IMU, Cameras
-- **AI & ML**: YOLOv5, OpenCV
-- **Tools**: Latex Overleaf, VS Code, GitHub
+- **Robotics Software Tools**: ROS, Gazebo, Unreal Engine
+- **Hardware Prototyping**: Proficient in sensors, actuators, ESC, and control systems.  
+  Examples: ZED 1/2 (stereo), d435 (depth), d455, T265 (fisheye), RPLidar (lidar), IMU, ublox GPS. SBCs (Raspberry Pi, Jetson Nano), Embedded Platforms (Arduino, Teensy, ESP32), Flight Control (Pixhawk), Ardupilot
+- **Computer Vision**: YOLOv5, OpenCV
+- **Utility Tools**: Latex Overleaf, VS Code, GitHub, Fusion 360, Adobe Software
+
 
 ## 🎓 Education
 
@@ -172,6 +170,18 @@ comments syntax
 - **Volume**: 7, **Issue**: 5, **Pages**: 300
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
 - **DOI**: 10.3390/drones7050300
+
+#### 📝 [RLaGA: A Reinforcement Learning Augmented Genetic Algorithm For Searching Real and Diverse Marker-Based Landing Violations](https://arxiv.org/abs/2310.07378)
+- **Conference**: ACM SIGSOFT/ FSE
+- **Year**: 2023
+- **Publisher**: arXiv
+- **Authors**: Linfeng Liang, Yao Deng, Kye Morton, Valtteri Kallinen, Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han, Xi Zheng
+
+#### 🚁 [Flying Watchdog-Based Guard Patrol with Check Point Data Verification](https://doi.org/10.3390/fi15100340)
+- **Journal**: Future Internet
+- **Volume**: 15, **Pages**: 340
+- **Authors**: Kuantama, E.; Seth, A.; James, A.; Zhang, Y.
+- **DOI**: 10.3390/fi15100340
 
 ### 2022
 
