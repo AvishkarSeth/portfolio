@@ -163,8 +163,31 @@ comments syntax
 
 ## 📚 Research Publications
 
+### 2024
+
+#### 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://doi.org/10.1145/3636534.3649382)
+- **Journal**: arXiv
+- **Year**: 2024, **Month**: March
+- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **DOI**: 10.1145/3636534.3649382
+
 ### 2023
 
+
+#### 🚁 [Aerodynamics and Sensing Analysis for Efficient Drone-Based Parcel Delivery](https://doi.org/10.1109/ICST59744.2023.10460847)
+- **Conference**: 2023 16th International Conference on Sensing Technology (ICST)
+- **Pages**: 17-20
+- **Publisher**: IEEE
+- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
+- **DOI**: 10.1109/ICST59744.2023.10460847
+
+#### 🚁 [Sensor Fusion for Autonomous Indoor UAV Navigation in Confined Spaces](https://doi.org/10.1109/ICST59744.2023.10460820)
+- **Conference**: 2023 16th International Conference on Sensing Technology (ICST)
+- **Pages**: 17-20
+- **Publisher**: IEEE
+- **Authors**: Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
+- **DOI**: 10.1109/ICST59744.2023.10460820
+  
 #### 🚁 [Drone High-Rise Aerial Delivery with Vertical Grid Screening](https://doi.org/10.3390%2Fdrones7050300)
 - **Journal**: Drones
 - **Volume**: 7, **Issue**: 5, **Pages**: 300
