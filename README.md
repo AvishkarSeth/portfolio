@@ -288,11 +288,11 @@ comments syntax
 ## 🤝 Volunteering
 
 ### Peer Reviewer
-- **: [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
-- **: [Springer Nature: Machine Vision and Applications](https://link.springer.com/journal/138)
-- **: [International Conference on Sensing Technology (ICST)](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings)
-- **: [International Journal on Smart Sensing and Intelligent Systems](https://sciendo.com/journal/IJSSIS)
-- **: [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm)
+- [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
+- [Springer Nature: Machine Vision and Applications](https://link.springer.com/journal/138)
+- [International Conference on Sensing Technology (ICST)](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings)
+- [International Journal on Smart Sensing and Intelligent Systems](https://sciendo.com/journal/IJSSIS)
+- [IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm)
 
 
 ### School of Engineering & Computing, Macquarie University
