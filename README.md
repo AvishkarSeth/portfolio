@@ -165,6 +165,12 @@ comments syntax
 
 ### 2024
 
+#### 🚁 [Cooperative Drone Delivery via Push-based Lift with Payload Stabilization](https://doi.org/10.1145/3661810.3663468)
+- **Conference**: DroNet '24: Proceedings of the 10th Workshop on Micro Aerial Vehicle Networks, Systems, and Applications
+- **Year**: 2024, **Month**: June
+- **Authors**: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **DOI**: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)
+
 #### 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://doi.org/10.1145/3636534.3649382)
 - **Journal**: arXiv
 - **Year**: 2024, **Month**: March
