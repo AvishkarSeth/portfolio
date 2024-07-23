@@ -273,7 +273,7 @@ comments syntax
 
 ### Awards
 
-### Annual QUT Droid Racing Challenge
+#### 🥇 [Annual QUT Droid Racing Challenge](https://qutrobotics.com/drc/2024)
 - **Year**: July 2024
 - **Institution**: Queensland University of Technology
 - **Prize**: Led a team of students in our MQ Robotics Club for the Annual QUT Droid Racing Challenge and won 3rd Prize
