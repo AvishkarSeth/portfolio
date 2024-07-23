@@ -43,13 +43,13 @@ _Sept 2022 - Present_
 #### 🏙 [Smart City Project](https://www.youtube.com/watch?v=0uyoMNQnnaY)  
 _Nov 2019 - July 2021_  
 - Participated in a project funded by the Australian Government’s Smart Cities and Suburbs Program, in partnership with the City of Ryde Council.
-- Responsibilities included the design of a sensor network, hardware prototyping, and real-time data analysis for a pedestrian counting system.
+- Responsibilities included designing a sensor network, hardware prototyping, and real-time data analysis for a pedestrian counting system.
 
 ### 📚 Teaching @ Macquarie University
 
 #### 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide)  
 _July 2020 - Present_  
-- Co-designed and co-taught an advanced undergraduate course focused on hands-on experience in designing, building, and programming mobile robots using ROS.
+- Co-designed and co-taught an advanced undergraduate course focused on hands-on experience designing, building, and programming mobile robots using ROS.
 - Lab sessions aim to develop student skills in ROS, computer vision, motor control, sensor integration, mapping, localization, and navigation.
 
 #### 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide)  
@@ -272,6 +272,11 @@ comments syntax
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
 
 ### Awards
+
+### Annual QUT Droid Racing Challenge
+- **Year**: July 2024
+- **Institution**: Queensland University of Technology
+- **Prize**: Led a team of students in our MQ Robotics Club for the Annual QUT Droid Racing Challenge and won 3rd Prize
 
 #### 🥇 [PGRF 2023- Post Graduate Research Fund](#)
 - **Year**: Oct 2023
