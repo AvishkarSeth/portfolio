@@ -98,8 +98,6 @@ _Publication Date: 2021/10/28_
 - Aims to reduce hospitalization costs and enable self-rehabilitation.
 - Presented at the 2021 IEEE International Symposium on Robotic and Sensors Environments (ROSE).
 
-
-
 ## 📚 Research Publications
 
 ### 2024
@@ -155,7 +153,7 @@ _Publication Date: 2021/10/28_
 #### 🚁 [Vertical Trajectory Analysis Using QR Code Detection for Drone Delivery Application](https://link.springer.com/chapter/10.1007/978-3-031-29871-4_48)
 - **Conference**: International Conference on Sensing Technology
 - **Publisher**: Springer Nature Switzerland, **Year**: 2022
-- **Authors**: Avishkar Seth, Alice James, Subhas Mukhopadhyay
+- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
 
 #### 🌐 [IoT System Design: Project Based Approach](https://doi.org/10.1007/978-3-030-85863-6)
 - **Journal**: Smart Sensors, Measurement and Instrumentation
@@ -207,7 +205,7 @@ _Publication Date: 2021/10/28_
 
 #### 🥇 [Intelligent and adaptive balanced lift via drone swarms]
 - **Provisional Patent Filed**: MQC Ref: 2023005
-- **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
+- **Authors**: Alice James, Avishkar Seth,, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han
 
 ### Awards
 
