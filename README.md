@@ -4,15 +4,6 @@
 
 Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a third-year Ph.D. Candidate and Robotics Research Engineer at Macquarie University. My expertise spans robotics, machine learning, and sensor technology, with a keen eye for real-world applications. I've been fortunate to contribute to diverse projects, from smart cities to autonomous drones. Currently mentored by [Prof. Subhas Mukhopadhyay](https://researchers.mq.edu.au/en/persons/subhas-mukhopadhyay), [Prof. Richard Han](https://researchers.mq.edu.au/en/persons/richard-han), and [Dr. Endrowednes Kuantama](https://researchers.mq.edu.au/en/persons/endrowednes-kuantama), my research aims to develop an autonomous drone equipped with advanced computer vision for mid-air item transfers.
 
-- **Fundamental Concepts**: Electronic Circuits, IoT, Wireless Principles, Computer Vision, Kinematics, Dynamics, Quadrotor Control
-- **Coding Languages**: Python, C/C++, HTML, MATLAB
-- **Robotics Software Tools**: ROS, Gazebo, Unreal Engine
-- **Hardware Prototyping**: Proficient in sensors, actuators, ESC, and control systems.  
-  Examples: ZED 1/2 (stereo), d435 (depth), d455, T265 (fisheye), RPLidar (lidar), IMU, ublox GPS. SBCs (Raspberry Pi, Jetson Nano), Embedded Platforms (Arduino, Teensy, ESP32), Flight Control (Pixhawk), Ardupilot
-- **Computer Vision**: YOLOv5, OpenCV
-- **Utility Tools**: Latex Overleaf, VS Code, GitHub, Fusion 360, Adobe Software
-
-
 ## 🎓 Education
 
 ### Macquarie University, Sydney
@@ -49,7 +40,7 @@ _Nov 2019 - July 2021_
 
 #### 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide)  
 _July 2020 - Present_  
-- Co-designed and co-taught an advanced undergraduate course focused on hands-on experience designing, building, and programming mobile robots using ROS.
+- Co-designed and co-taught an advanced undergraduate course on hands-on experience designing, building, and programming mobile robots using ROS.
 - Lab sessions aim to develop student skills in ROS, computer vision, motor control, sensor integration, mapping, localization, and navigation.
 
 #### 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide)  
@@ -98,7 +89,6 @@ _Publication Date: 2021/9/27_
 - Covers wireless communication, machine learning, and AI in IoT.
 - Aimed at upper-level students, researchers, and engineers.
 - Published by Springer, part of Smart Sensors, Measurement and Instrumentation series.
-- 15k accesses and 5 citations as of 2023.
 
 ### 🦾 [Wearable Sensing System for Real-time 3D Posture Estimation](https://ieeexplore.ieee.org/abstract/document/9611778)  
 _Authors: Avishkar Seth, Alice James, Subhas Mukhopadhyay_  
@@ -106,7 +96,7 @@ _Publication Date: 2021/10/28_
 - Introduces a wearable system for real-time 3D posture estimation in lower back healthcare.
 - Utilizes BLE technology and IMU sensors for wireless communication and position tracking.
 - Aims to reduce hospitalization costs and enable self-rehabilitation.
-- Presented at 2021 IEEE International Symposium on Robotic and Sensors Environments (ROSE).
+- Presented at the 2021 IEEE International Symposium on Robotic and Sensors Environments (ROSE).
 
 
 
@@ -127,7 +117,6 @@ _Publication Date: 2021/10/28_
 - **DOI**: 10.1145/3636534.3649382
 
 ### 2023
-
 
 #### 🚁 [Aerodynamics and Sensing Analysis for Efficient Drone-Based Parcel Delivery](https://doi.org/10.1109/ICST59744.2023.10460847)
 - **Conference**: 2023 16th International Conference on Sensing Technology (ICST)
@@ -231,7 +220,7 @@ _Publication Date: 2021/10/28_
 - **Year**: Oct 2023
 - **Institution**: Macquarie University
 - **Prize**: Research & Travel Grant of Au$6000  
-- **Description**: Won a Research & Travel Grant of $6000 in the most competetive university wide competetion
+- **Description**: Won a Research & Travel Grant of $6000 in the most competitive university-wide competetion
 
 #### 🥇 [Hackathon 2020 - Big Data Society, Macquarie University](#)
 - **Year**: March 2020
@@ -249,6 +238,8 @@ _Publication Date: 2021/10/28_
 
 ### Peer Reviewer
 - [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
+- [MDPI Sensors Journal](https://www.mdpi.com/journal/sensors)
+- [MDPI Drones Journal](https://www.mdpi.com/journal/drones)
 - [Springer Nature: Machine Vision and Applications](https://link.springer.com/journal/138)
 - [Springer Nature: Cluster Computing](https://link.springer.com/journal/10586)
 - [International Conference on Sensing Technology (ICST)](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings)
@@ -258,9 +249,9 @@ _Publication Date: 2021/10/28_
 
 
 ### School of Engineering & Computing, Macquarie University
-- **Role**: Co- Supervisor
+- **Role**: Co-Supervisor
 - **Time**: Feb 2021 – Present
-- **Duties**: Co- Supervise undergraduate and postgraduate students from engineering and computing departments in Macquarie University. 
+- **Duties**: Mentor undergraduate and postgraduate students from the engineering and computing departments at Macquarie University. 
 
 ### IEEE- Macquarie, Sydney
 - **Role**: Vice-Chair
