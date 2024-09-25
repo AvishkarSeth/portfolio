@@ -61,6 +61,15 @@ _March 2019 - Dec 2020_
 
 ## 📚 Major Research Projects
 
+### 📦 [Cooperative Drone Delivery](https://doi.org/10.1145/3661810.3663468) 
+- Ongoing
+
+### 📦 [Mid-Air Drone Handoff](https://dl.acm.org/doi/10.1145/3636534.3649382) 
+- Ongoing
+
+### 📦 [High-speed counting of black soldier flies](https://www.nssn.org.au/arc) 
+- Ongoing
+
 ### 📦 [Drone High-Rise Aerial Delivery](https://www.mdpi.com/2504-446X/7/5/300)  
 - Developed a novel drone delivery system to address the unique challenges of delivering packages to multi-story apartments with balconies.
 - Utilized Vertical Grid Screening methods to identify precise delivery locations.
