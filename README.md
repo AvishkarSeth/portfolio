@@ -36,7 +36,7 @@ _Jan 2024 - Dec 2024_
 - Engaged in an NSSN-funded collaboration between Macquarie University's School of Engineering, ARC Entotech, and the International Centre for Neuromorphic Systems at Western Sydney.
 - Worked as a research assistant for the project, developing, prototyping, and deploying the neuromorphic vision system.
 
-#### 🌊 [Aquatic Robotics - USV and ROV](https://www.nssn.org.au/arc)  
+#### 🌊 [Aquatic Robotics - USV and ROV]()  
 _Aug 2024 - Present_  
 - Ongoing
 
