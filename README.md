@@ -31,12 +31,12 @@ _Sept 2022 - Present_
 - Engaged in an ARC-funded collaboration between Macquarie University's Computing Department and Skyy Network, an Aviation and Aerospace company.
 - Role involves implementing real-world testing of machine learning models specifically designed for outdoor drone operations.
 
-#### 🚁 [High speed counting of black soldier flies](https://www.nssn.org.au/arc)  
+#### 🐝 [High speed counting of black soldier flies](https://www.nssn.org.au/arc)  
 _Jan 2024 - Dec 2024_  
-- Engaged in an NSSN-funded collaboration between Macquarie University's School of Engineering, ARC Entotech, and the International Centre for Neuromorphic Systems at Western Sydney
-- Worked as a research assistant for the project, developing, prototyping and deploying the neuromorphic vision system.
+- Engaged in an NSSN-funded collaboration between Macquarie University's School of Engineering, ARC Entotech, and the International Centre for Neuromorphic Systems at Western Sydney.
+- Worked as a research assistant for the project, developing, prototyping, and deploying the neuromorphic vision system.
 
-#### 🚁 [Aquatic Robotics- USV and ROV](https://www.nssn.org.au/arc)  
+#### 🌊 [Aquatic Robotics - USV and ROV](https://www.nssn.org.au/arc)  
 _Aug 2024 - Present_  
 - Ongoing
 
