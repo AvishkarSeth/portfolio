@@ -24,12 +24,21 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 
 ## 🛠 Work Experience
 
-### 🎓 Research @ Macquarie University
+### 🎓 Research Assistant @ Macquarie University
 
-#### 🚁 [Autonomous Drone Landing Project](https://skyy.network/partners/)  
+#### 🚁 [Autonomous Drone Landing Project](https://skyy.network/)  
 _Sept 2022 - Present_  
 - Engaged in an ARC-funded collaboration between Macquarie University's Computing Department and Skyy Network, an Aviation and Aerospace company.
 - Role involves implementing real-world testing of machine learning models specifically designed for outdoor drone operations.
+
+#### 🚁 [High speed counting of black soldier flies](https://www.nssn.org.au/arc)  
+_Jan 2024 - Dec 2024_  
+- Engaged in an NSSN-funded collaboration between Macquarie University's School of Engineering, ARC Entotech, and the International Centre for Neuromorphic Systems at Western Sydney
+- Worked as a research assistant for the project, developing, prototyping and deploying the neuromorphic vision system.
+
+#### 🚁 [Aquatic Robotics- USV and ROV](https://www.nssn.org.au/arc)  
+_Aug 2024 - Present_  
+- Ongoing
 
 #### 🏙 [Smart City Project](https://www.youtube.com/watch?v=0uyoMNQnnaY)  
 _Nov 2019 - July 2021_  
@@ -59,54 +68,6 @@ _March 2019 - Dec 2020_
 - Responsibilities included designing the entire WordPress website, executing SEO strategies, conducting data analytics, and overseeing Google Business and Facebook advertising campaigns.
 - Also managed the company's LinkedIn profile and client database to drive sales.
 
-## 📚 Major Research Projects
-
-### 📦 [Cooperative Drone Delivery](https://doi.org/10.1145/3661810.3663468) 
-- Ongoing
-
-### 📦 [Mid-Air Drone Handoff](https://dl.acm.org/doi/10.1145/3636534.3649382) 
-- Ongoing
-
-### 📦 [High-speed counting of black soldier flies](https://www.nssn.org.au/arc) 
-- Ongoing
-
-### 📦 [Drone High-Rise Aerial Delivery](https://www.mdpi.com/2504-446X/7/5/300)  
-- Developed a novel drone delivery system to address the unique challenges of delivering packages to multi-story apartments with balconies.
-- Utilized Vertical Grid Screening methods to identify precise delivery locations.
-- The drone features a 295 mm frame, stereo camera, and ranging sensor.
-- Implemented machine learning with a YOLOv5 model for marker recognition, achieving 95% accuracy and 398 ms detection time in outdoor tests.
-
-### 🚗 [1/10th Scale Autonomous Vehicle Based on CNN](https://sciendo.com/article/10.21307/ijssis-2020-021?tab=articoli-recenti)  
-_Authors: Avishkar Seth, Alice James, Subhas C Mukhopadhyay_  
-_Publication Date: 2020/1_  
-- Studied hardware prototyping for autonomous ground robots for different applications using CNN based computer vision system.
-- Explored the concept of autonomous vehicles, both on-road and off-road (AUGV).
-- Focused on path recognition, vehicle detection, and passenger transport.
-
-### 🛰 [TrackInk: IoT-Enabled Real-Time Object Tracking](https://www.mdpi.com/1424-8220/22/2/608)  
-_Authors: Cameron Aume, Keith Andrews, Shantanu Pal, Alice James, Avishkar Seth, Subhas Mukhopadhyay_  
-_Publication Date: 2022/1_  
-- Developed 'TrackInk' for real-time IoT object tracking in space.
-- Capable of pointing at and photographing visible satellites, including the ISS.
-- Utilizes sensor data for geolocation and 3D orientation.
-- Communicates with ThingSpeak for cloud-based data analysis.
-
-### 📘 [IoT System Design: Project Based Approach](https://doi.org/10.1007/978-3-030-85863-6)  
-_Authors: Alice James, Avishkar Seth, Subhas Chandra Mukhopadhyay_  
-_Publication Date: 2021/9/27_  
-- Comprehensive guide on IoT system design from sensors to cloud network.
-- Covers wireless communication, machine learning, and AI in IoT.
-- Aimed at upper-level students, researchers, and engineers.
-- Published by Springer, part of Smart Sensors, Measurement and Instrumentation series.
-
-### 🦾 [Wearable Sensing System for Real-time 3D Posture Estimation](https://ieeexplore.ieee.org/abstract/document/9611778)  
-_Authors: Avishkar Seth, Alice James, Subhas Mukhopadhyay_  
-_Publication Date: 2021/10/28_  
-- Introduces a wearable system for real-time 3D posture estimation in lower back healthcare.
-- Utilizes BLE technology and IMU sensors for wireless communication and position tracking.
-- Aims to reduce hospitalization costs and enable self-rehabilitation.
-- Presented at the 2021 IEEE International Symposium on Robotic and Sensors Environments (ROSE).
-
 ## 📚 Research Publications
 
 ### 2024
@@ -122,6 +83,26 @@ _Publication Date: 2021/10/28_
 - **Year**: 2024, **Month**: March
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **DOI**: 10.1145/3636534.3649382
+
+#### 🚁 [Autonomous Drone Coordination in RF-denied Environments through Leader-Follower Systems and Computer Vision](https://ieeexplore.ieee.org/abstract/document/10715791/)
+- **Conference**: 2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
+- **Year**: 2024
+- **Authors**: Endrowednes Kuantama, **Alice James**, Avishkar Seth
+- **Publisher**: ICARM
+
+
+#### 🚁 [Cooperative Drone Payload Delivery with Self Balancing Tray](https://ieeexplore.ieee.org/abstract/document/10715797/)
+- **Conference**: 2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
+- **Year**: 2024
+- **Authors**: **Alice James**, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **Publisher**: ICARM
+
+#### 🚁 [Flying IoT: Sensor Fusion Performance Analysis for UAV Applications in Indoor Spaces](https://doi.org/10.1007/978-3-031-68602-3_2)
+- **Book**: IoT Sensors, ML, AI and XAI: Empowering A Smarter World
+- **Year**: 2024
+- **Authors**: **Alice James**, Avishkar Seth, Natalia Chatrath, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **Publisher**: Springer
+
 
 ### 2023
 
