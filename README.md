@@ -199,6 +199,12 @@ _March 2019 - Dec 2020_
 
 ### Awards
 
+#### 🥇 [Research Grant- Automatic Empty Locations check in the Warehouse using a Drone](#)
+- **Year**: Sept 2024
+- **Institution**: Macquarie University
+- **Prize**: Research Grant of Au$15,000  
+- **Description**: Chief Investigator on the project between Legrand and Macquarie University Drone Lab
+
 #### 🥇 [Annual Australia QUT Droid Racing Challenge](https://qutrobotics.com/drc/2024)
 - **Year**: July 2024
 - **Institution**: Queensland University of Technology
