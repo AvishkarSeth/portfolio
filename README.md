@@ -79,7 +79,7 @@ _March 2019 - Dec 2020_
 - **DOI**: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)
 
 #### 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://doi.org/10.1145/3636534.3649382)
-- **Journal**: arXiv
+- **Conference**: ACM Mobicom 2024
 - **Year**: 2024, **Month**: March
 - **Authors**: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **DOI**: 10.1145/3636534.3649382
@@ -87,20 +87,20 @@ _March 2019 - Dec 2020_
 #### 🚁 [Autonomous Drone Coordination in RF-denied Environments through Leader-Follower Systems and Computer Vision](https://ieeexplore.ieee.org/abstract/document/10715791/)
 - **Conference**: 2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
 - **Year**: 2024
-- **Authors**: Endrowednes Kuantama, **Alice James**, Avishkar Seth
+- **Authors**: Endrowednes Kuantama, Alice James, Avishkar Seth
 - **Publisher**: ICARM
 
 
 #### 🚁 [Cooperative Drone Payload Delivery with Self Balancing Tray](https://ieeexplore.ieee.org/abstract/document/10715797/)
 - **Conference**: 2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
 - **Year**: 2024
-- **Authors**: **Alice James**, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **Authors**: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **Publisher**: ICARM
 
 #### 🚁 [Flying IoT: Sensor Fusion Performance Analysis for UAV Applications in Indoor Spaces](https://doi.org/10.1007/978-3-031-68602-3_2)
 - **Book**: IoT Sensors, ML, AI and XAI: Empowering A Smarter World
 - **Year**: 2024
-- **Authors**: **Alice James**, Avishkar Seth, Natalia Chatrath, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
+- **Authors**: Alice James, Avishkar Seth, Natalia Chatrath, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay
 - **Publisher**: Springer
 
 
