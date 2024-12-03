@@ -45,7 +45,9 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 
 ## 📚 Research Publications
 
-### 2024  
+### 2024
+- 🚗 [MecQaBot: A Modular Robot Sensing and Wireless Mechatronics Framework for Education and Research](https://arxiv.org/html/2411.13156v1) - Conference: ICST 2024, International Conference on Sensing Technology, 2024, December, Alice James, Avishkar Seth, Subhas Mukhopadhyay, DOI: [2411.13156v1](https://arxiv.org/html/2411.13156v1)
+- 🐝 [FlyCount: High-Speed Counting of Black Soldier Flies Using Neuromorphic Sensors](https://doi.org/10.1109/JSEN.2024.3504289), IEEE Sensors Journal, Authors: Alice James, Avishkar Seth, A. Marcireau, S. Mukhopadhyay, T. Hu, and R. Atayde. DOI: [10.1109/JSEN.2024.3504289](https://doi.org/10.1109/JSEN.2024.3504289).
 - 🚁 [Cooperative Drone Delivery via Push-based Lift with Payload Stabilization](https://doi.org/10.1145/3661810.3663468), DroNet '24, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, DOI: [10.1145/3636534.3649382](https://doi.org/10.1145/3661810.3663468)  
 - 🚁 [AeroBridge: Autonomous Drone Handoff System for Emergency Battery Service](https://doi.org/10.1145/3636534.3649382), ACM Mobicom 2024, Authors: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, DOI: 10.1145/3636534.3649382  
 - 🚁 [Autonomous Drone Coordination in RF-denied Environments](https://ieeexplore.ieee.org/abstract/document/10715791/), ICARM 2024, Authors: Endrowednes Kuantama, Alice James, Avishkar Seth  
