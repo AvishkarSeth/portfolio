@@ -41,18 +41,19 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 - 🤖 [COMP8291 IoT and Embedded Systems](https://unitguides.mq.edu.au/unit_offerings/163122/unit_guide), June 2024 - Present: This unit is intended to provide a practical understanding of embedded/real-time operating systems (OS) using STM32 and RTOS based learning platforms.  
 - 🛠 [ENGG2000/3000 Engineering Project Practice](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide), July 2022 - Nov 2022: Lab tutor for SPINE unit, fostering professional skills, employability, and project-based learning through online modules and academic collaboration.  
 
-### ☀ Web Developer @ [Quality Solar Sydney](https://www.qualitysolarsydney.com.au/)  
+### ☀ Freelance Web Developer @ [Quality Solar Sydney](https://www.qualitysolarsydney.com.au/)  
 - March 2019 - Dec 2020: Designed and developed the WordPress website, implemented SEO strategies, conducted data analytics, managed Google Business and Facebook campaigns, and handled the company’s LinkedIn profile and client database to drive sales.  
 
 
 ## 📚 Research Publications
 
 ### 2025
-- 🤖 [**GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems**](https://doi.org/10.1109/ICSE55347.2025.00076) - *ICSE 2025* – 47th IEEE/ACM International Conference on Software Engineering, L. Liang, Y. Deng, K. Morton, V. Kallinen, A. James, **A. Seth**, E. Kuantama, S. Mukhopadhyay, R. Han, X. Zheng.
-- 🌊 [**Continuous Marine Monitoring via Autonomous UAV Handoff**](https://doi.org/10.1145/3711875.3737661) - *MobiSys '25* – 23rd ACM International Conference on Mobile Systems, Applications, and Services. H. Kim, A. James, **A. Seth**, E. Kuantama, J. Williamson, Y. Feng, R. Han.
-- 🚁 [**Towards Robust Autonomous Landing Systems: Iterative Solutions and Key Lessons Learned**](https://doi.org/10.1109/DSN-S65789.2025.00058) - *DSN-S 2025* – 55th IEEE/IFIP International Conference on Dependable Systems and Networks, S. Schroder, Y. Deng, A. James, **A. Seth**, K. Morton, S. Mukhopadhyay, R. Han, X. Zheng.
-- 📦 [**Towards Optimizing Swarm Drone Delivery in RF-Denied Environments**](https://doi.org/10.1007/978-3-032-07343-3_48) - *ACIVS 2025* – Advanced Concepts for Intelligent Vision Systems  
+- 🤖 [GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems](https://doi.org/10.1109/ICSE55347.2025.00076) - *ICSE 2025* – 47th IEEE/ACM International Conference on Software Engineering, L. Liang, Y. Deng, K. Morton, V. Kallinen, A. James, **A. Seth**, E. Kuantama, S. Mukhopadhyay, R. Han, X. Zheng.
+- 🌊 [Continuous Marine Monitoring via Autonomous UAV Handoff](https://doi.org/10.1145/3711875.3737661) - *MobiSys '25* – 23rd ACM International Conference on Mobile Systems, Applications, and Services. H. Kim, A. James, **A. Seth**, E. Kuantama, J. Williamson, Y. Feng, R. Han.
+- 🚁 [Towards Robust Autonomous Landing Systems: Iterative Solutions and Key Lessons Learned](https://doi.org/10.1109/DSN-S65789.2025.00058) - *DSN-S 2025* – 55th IEEE/IFIP International Conference on Dependable Systems and Networks, S. Schroder, Y. Deng, A. James, **A. Seth**, K. Morton, S. Mukhopadhyay, R. Han, X. Zheng.
+- 📦 [Towards Optimizing Swarm Drone Delivery in RF-Denied Environments](https://doi.org/10.1007/978-3-032-07343-3_48) - *ACIVS 2025* – Advanced Concepts for Intelligent Vision Systems  
   Authors: E. Kuantama, A. James, **A. Seth**, R. Han, S. Mukhopadhyay.
+- 🛠️ [A Step-by-Step Guide to Creating a Robust Autonomous Drone Testing Pipeline](https://doi.org/10.48550/arXiv.2506.11400) | *arXiv:2506.11400 [cs.SE]* | Y. Jiang, Y. Deng, S. Schroder, L. Liang, S. Gambhir, A. James, **A. Seth**, J. Pirrie, Y. Zhang, X. Zheng.
 
 ### 2024
 - 🚗 [MecQaBot: A Modular Robot Sensing and Wireless Mechatronics Framework for Education and Research](https://arxiv.org/html/2411.13156v1) - Conference: ICST 2024, International Conference on Sensing Technology, 2024, December, Alice James, Avishkar Seth, Subhas Mukhopadhyay, DOI: [2411.13156v1](https://arxiv.org/html/2411.13156v1)
