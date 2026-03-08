@@ -47,6 +47,9 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 
 ## 📚 Research Publications
 
+### 2026
+- 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://www.researchgate.net/profile/Sergey-Yurish/publication/401427428_DAUS_2026_Proceedings/links/69a55a99526cf2411930f8dd/DAUS-2026-Proceedings.pdf#page=19), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Salzburg, Austria, 25–27 February 2026.
+
 ### 2025
 - 🚁 [Synchronized Mid-Air Drone Docking During Translational Motion](https://ieeexplore.ieee.org/document/11375893), 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), Chengdu, China, 2025, pp. 757-763.  
 - 🤖 [GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems](https://doi.org/10.1109/ICSE55347.2025.00076) - *ICSE 2025* – 47th IEEE/ACM International Conference on Software Engineering, L. Liang, Y. Deng, K. Morton, V. Kallinen, A. James, **A. Seth**, E. Kuantama, S. Mukhopadhyay, R. Han, X. Zheng.
