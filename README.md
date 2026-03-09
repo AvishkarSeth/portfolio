@@ -4,7 +4,6 @@
 
 Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a Robotics Research Engineer at Macquarie University. I work with robotics, avionics, and sensing systems, with a strong focus on aerial robot autonomy. I enjoy turning ideas into working systems and guiding others through training and practical learning. I’m also interested in entrepreneurship and the business side of technology, especially where engineering meets real impact. At my core, I’m curious. I believe the meaning of life is to live fully, explore, connect, and keep expanding our understanding of humanity and the universe around us. This shapes the way I work & build. I’m open to meaningful collaborations in robotics, innovation, and applied research.
 
-
 ## 🛠 Work Experience
 
 ### 🎓 Robotics Research Engineer @ Macquarie University  
@@ -39,11 +38,50 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 - 🤖 [MTRN4068 Wireless Mechatronics](https://unitguides.mq.edu.au/unit_offerings/149936/unit_guide), July 2020 - Present: Co-designed and co-taught an advanced undergraduate course on mobile robot design, programming, and hands-on experience using ROS, covering topics like motor control, computer vision, mapping, localization, and navigation.  
 - 🌐 [ENGG4201/8201 IoT System Design](https://unitguides.mq.edu.au/unit_offerings/149908/unit_guide), Feb 2021 - July 2025: Co-designed and co-taught an advanced course in designing, building, and programming IoT systems, focusing on sensor integration, web design, data analysis, and machine learning for IoT applications.
 - 🤖 [COMP8291 IoT and Embedded Systems](https://unitguides.mq.edu.au/unit_offerings/163122/unit_guide), June 2024 - Present: This unit is intended to provide a practical understanding of embedded/real-time operating systems (OS) using STM32 and RTOS based learning platforms.  
-- 🛠 [ENGG2000/3000 Engineering Project Practice](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide), July 2022 - Nov 2022: Lab tutor for SPINE unit, fostering professional skills, employability, and project-based learning through online modules and academic collaboration.  
+- 🛠 [ENGG2000/3000 Engineering Project Practice](https://unitguides.mq.edu.au/unit_offerings/129626/unit_guide), July 2022 - Nov 2022: Lab tutor for SPINE unit, fostering professional skills, employability, and project-based learning through online modules and academic collaboration.
+- [Mentor](https://avishkarseth.github.io/new_pages/mentor_students.html): I am Co-supervising undergraduate and postgraduate students, providing mentorship and support in their research projects. Through close work with student groups, I’m committed to mentoring teams in the MQ Robotics Club, Drone Society, MARS Rover, and the Advanced Drone Systems Research Centre at MQ—connecting research with meaningful real-world impact. 
 
 ### ☀ Freelance Web Developer @ [Quality Solar Sydney](https://www.qualitysolarsydney.com.au/)  
 - March 2019 - Dec 2020: Designed and developed the WordPress website, implemented SEO strategies, conducted data analytics, managed Google Business and Facebook campaigns, and handled the company’s LinkedIn profile and client database to drive sales.  
 
+
+## 🏆 Achievements
+
+### 💰 Grants & Major Projects
+- 🥇 **[AEA Innovate Grant: Autonomous Drone Battery Swap](https://lighthouse.mq.edu.au/media-releases/2025/july-2025/funding-set-to-revolutionise-drone-flight-technology)**, 2025: **Au$2,240,200**. Key researcher on a project to commercialize mid-air battery exchange technology for continuous flight missions (Project: [AEA Record](https://www.aea.gov.au/funded-projects?program%5B499%5D=499&priority%5B366%5D=366&university%5B454%5D=454&year=All&state=All&funding_amount_from=&funding_amount_to)).
+- 🥇 **[Deep Vision in Autonomous Underwater 3D Mapping for Biodiversity Assessment](https://researchers.mq.edu.au/en/projects/deep-vision-in-autonomous-underwater-3d-mapping-for-biodiversity-/)**, June 2025 – May 2026: **Chief Investigator**. An international research collaboration between Ghent University and Macquarie University utilizing Gaussian Splatting for marine monitoring.
+- 🥇 **[Virtual-GPS for GNSS-Denied Airspace](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems/our-projects)**, 2025: Project lead on beacon-based sensing and stochastic control systems for resilient UAS navigation in contested environments.
+- 🥇 **[Warehouse Automation Grant](https://researchers.mq.edu.au/en/persons/avishkar-seth/)**, Sept 2024: **Au$15,000**. Chief Investigator for "Automatic Empty Locations Check in the Warehouse using a Drone" in partnership with Legrand.
+- 🥇 **Post Graduate Research Fund (PGRF)**, Oct 2023: **Au$6,000**. Awarded in a competitive university-wide research and travel funding round.
+
+### 📜 Patents
+- 🥇 [**Mid-air Drone to Drone Balanced Item Handoff**](#), Provisional Patent Filed: MQC Ref: 2023005. Authors: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han.
+- 🥇 [**Intelligent and Adaptive Balanced Lift via Drone Swarms**](#), Provisional Patent Filed: MQC Ref: 2023005. Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han.
+
+### 🎖 Awards & Competitions
+- 🥇 [**Travel Grant- AeroBridge, MobiCom 2024**](https://dl.acm.org/doi/10.1145/3636534.3649382), Nov 2024: **Au$5,000**. Awarded for presenting research at MobiCom 2024.
+- 🥇 [**QUT Droid Racing Challenge**](https://qutrobotics.com/drc/2024), July 2024: **3rd Place**. Mentored the Macquarie University Robotics Club team.
+- 🥇 [**Big Data Society Hackathon**](#), Mar 2020: **2nd Place**. AI-Enabled Education Hackathon; Awarded Au$1,700. 
+
+### Certificates  
+- 🛩️ [Summer Training Program on Quadrotor and RC Aircraft](https://www.skyfilabs.com/verify-certificate/44390012), Certificate No: 44390012, Permanent Link: [Skyfi Labs Certificate Verification](https://www.skyfilabs.com/verify-certificate/44390012)  
+
+## 🤝 Volunteering
+
+### Peer Reviewer  
+- [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [MDPI Sensors Journal](https://www.mdpi.com/journal/sensors), [MDPI Drones Journal](https://www.mdpi.com/journal/drones), [Springer Nature: Machine Vision and Applications](https://link.springer.com/journal/138), [Springer Nature: Cluster Computing](https://link.springer.com/journal/10586), [ICST](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings), [IJSSIS](https://sciendo.com/journal/IJSSIS), [IEEE ICARM](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm), [ACM MobiSys-DroNet](https://www.sigmobile.org/mobisys/2024/wsl.html), [Guest Editor- Symmetry in Robotics and Aerial Systems: Theory, Learning and Applications](https://www.mdpi.com/journal/symmetry/special_issues/53V0MR3JQ4)
+
+### School of Engineering & Computing, Macquarie University  
+- **Role**: Co-Supervisor, **Time**: Feb 2021 – Present, **Duties**: Mentor undergrad/postgrad students in engineering and computing  
+
+### IEEE-Macquarie, Sydney  
+- **Role**: Vice-Chair, **Time**: Feb 2019 – Dec 2025, **Duties**: Seminars, student engagement, conference representation  
+
+### IEEE Women in Engineering, Sydney  
+- **Role**: Secretary, **Time**: Feb 2019 – Dec 2025, **Duties**: Social media, website, event planning  
+
+### Venture Cafe, Sydney  
+- **Role**: Ambassador, **Time**: Aug 2019 – Dec 2021  
 
 ## 📚 Research Publications
 
@@ -88,43 +126,3 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 ### 2020  
 - 🚗 [1/10th Scale Autonomous Vehicle with CNN](https://sciendo.com/article/10.21307/ijssis-2020-021), Journal: International Journal on Smart Sensing and Intelligent Systems, Authors: Avishkar Seth, Alice James, Subhas Mukhopadhyay  
 - 🌐 [IoT-Enabled Sensor Node Tutorial](https://sciendo.com/article/10.21307/ijssis-2020-022), Journal: International Journal on Smart Sensing and Intelligent Systems, Authors: Alice James, Avishkar Seth, Subhas C. Mukhopadhyay
-
-
-## 🏆 Achievements
-
-### 💰 Grants & Major Projects
-- 🥇 **[AEA Innovate Grant: Autonomous Drone Battery Swap](https://lighthouse.mq.edu.au/media-releases/2025/july-2025/funding-set-to-revolutionise-drone-flight-technology)**, 2025: **Au$2,240,200**. Key researcher on a project to commercialize mid-air battery exchange technology for continuous flight missions (Project: [AEA Record](https://www.aea.gov.au/funded-projects?program%5B499%5D=499&priority%5B366%5D=366&university%5B454%5D=454&year=All&state=All&funding_amount_from=&funding_amount_to)).
-- 🥇 **[Deep Vision in Autonomous Underwater 3D Mapping for Biodiversity Assessment](https://researchers.mq.edu.au/en/projects/deep-vision-in-autonomous-underwater-3d-mapping-for-biodiversity-/)**, June 2025 – May 2026: **Chief Investigator**. An international research collaboration between Ghent University and Macquarie University utilizing Gaussian Splatting for marine monitoring.
-- 🥇 **[Virtual-GPS for GNSS-Denied Airspace](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems/our-projects)**, 2025: Project lead on beacon-based sensing and stochastic control systems for resilient UAS navigation in contested environments.
-- 🥇 **[Warehouse Automation Grant](https://researchers.mq.edu.au/en/persons/avishkar-seth/)**, Sept 2024: **Au$15,000**. Chief Investigator for "Automatic Empty Locations Check in the Warehouse using a Drone" in partnership with Legrand.
-- 🥇 **Post Graduate Research Fund (PGRF)**, Oct 2023: **Au$6,000**. Awarded in a competitive university-wide research and travel funding round.
-
-### 📜 Patents
-- 🥇 [**Mid-air Drone to Drone Balanced Item Handoff**](#), Provisional Patent Filed: MQC Ref: 2023005. Authors: Avishkar Seth, Alice James, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han.
-- 🥇 [**Intelligent and Adaptive Balanced Lift via Drone Swarms**](#), Provisional Patent Filed: MQC Ref: 2023005. Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han.
-
-### 🎖 Awards & Competitions
-- 🥇 [**Travel Grant- AeroBridge, MobiCom 2024**](https://dl.acm.org/doi/10.1145/3636534.3649382), Nov 2024: **Au$5,000**. Awarded for presenting research at MobiCom 2024.
-- 🥇 [**QUT Droid Racing Challenge**](https://qutrobotics.com/drc/2024), July 2024: **3rd Place**. Mentored the Macquarie University Robotics Club team.
-- 🥇 [**Big Data Society Hackathon**](#), Mar 2020: **2nd Place**. AI-Enabled Education Hackathon; Awarded Au$1,700. 
-
-### Certificates  
-- 🛩️ [Summer Training Program on Quadrotor and RC Aircraft](https://www.skyfilabs.com/verify-certificate/44390012), Certificate No: 44390012, Permanent Link: [Skyfi Labs Certificate Verification](https://www.skyfilabs.com/verify-certificate/44390012)  
-
-## 🤝 Volunteering
-
-### Peer Reviewer  
-- [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), [MDPI Sensors Journal](https://www.mdpi.com/journal/sensors), [MDPI Drones Journal](https://www.mdpi.com/journal/drones), [Springer Nature: Machine Vision and Applications](https://link.springer.com/journal/138), [Springer Nature: Cluster Computing](https://link.springer.com/journal/10586), [ICST](https://ieeexplore.ieee.org/xpl/conhome/1002593/all-proceedings), [IJSSIS](https://sciendo.com/journal/IJSSIS), [IEEE ICARM](https://www.ieee-ras.org/conferences-workshops/technically-co-sponsored/icarm), [ACM MobiSys-DroNet](https://www.sigmobile.org/mobisys/2024/wsl.html), [Guest Editor- Symmetry in Robotics and Aerial Systems: Theory, Learning and Applications](https://www.mdpi.com/journal/symmetry/special_issues/53V0MR3JQ4)
-
-### School of Engineering & Computing, Macquarie University  
-- **Role**: Co-Supervisor, **Time**: Feb 2021 – Present, **Duties**: Mentor undergrad/postgrad students in engineering and computing  
-
-### IEEE-Macquarie, Sydney  
-- **Role**: Vice-Chair, **Time**: Feb 2019 – Dec 2025, **Duties**: Seminars, student engagement, conference representation  
-
-### IEEE Women in Engineering, Sydney  
-- **Role**: Secretary, **Time**: Feb 2019 – Dec 2025, **Duties**: Social media, website, event planning  
-
-### Venture Cafe, Sydney  
-- **Role**: Ambassador, **Time**: Aug 2019 – Dec 2021  
-
