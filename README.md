@@ -48,10 +48,10 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 ## 📚 Research Publications
 
 ### 2026
-- 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://www.researchgate.net/profile/Sergey-Yurish/publication/401427428_DAUS_2026_Proceedings/links/69a55a99526cf2411930f8dd/DAUS-2026-Proceedings.pdf#page=19), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Salzburg, Austria, 25–27 February 2026.
+- 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://www.researchgate.net/profile/Sergey-Yurish/publication/401427428_DAUS_2026_Proceedings/links/69a55a99526cf2411930f8dd/DAUS-2026-Proceedings.pdf#page=19), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Salzburg, Austria, 25–27 February 2026, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay.
 
 ### 2025
-- 🚁 [Synchronized Mid-Air Drone Docking During Translational Motion](https://ieeexplore.ieee.org/document/11375893), 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), Chengdu, China, 2025, pp. 757-763.  
+- 🚁 [Synchronized Mid-Air Drone Docking During Translational Motion](https://ieeexplore.ieee.org/document/11375893), 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), Authors: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, Chengdu, China, 2025, pp. 757-763.  
 - 🤖 [GARL: Genetic Algorithm-Augmented Reinforcement Learning to Detect Violations in Marker-Based Autonomous Landing Systems](https://doi.org/10.1109/ICSE55347.2025.00076) - *ICSE 2025* – 47th IEEE/ACM International Conference on Software Engineering, L. Liang, Y. Deng, K. Morton, V. Kallinen, A. James, **A. Seth**, E. Kuantama, S. Mukhopadhyay, R. Han, X. Zheng.
 - 🌊 [Continuous Marine Monitoring via Autonomous UAV Handoff](https://doi.org/10.1145/3711875.3737661) - *MobiSys '25* – 23rd ACM International Conference on Mobile Systems, Applications, and Services. H. Kim, A. James, **A. Seth**, E. Kuantama, J. Williamson, Y. Feng, R. Han.
 - 🚁 [Towards Robust Autonomous Landing Systems: Iterative Solutions and Key Lessons Learned](https://doi.org/10.1109/DSN-S65789.2025.00058) - *DSN-S 2025* – 55th IEEE/IFIP International Conference on Dependable Systems and Networks, S. Schroder, Y. Deng, A. James, **A. Seth**, K. Morton, S. Mukhopadhyay, R. Han, X. Zheng.
