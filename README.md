@@ -84,10 +84,14 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 ### Venture Cafe, Sydney  
 - **Role**: Ambassador, **Time**: Aug 2019 – Dec 2021  
 
-## 📚 Research Publications
-
 ### 2026
-- 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://www.researchgate.net/profile/Sergey-Yurish/publication/401427428_DAUS_2026_Proceedings/links/69a55a99526cf2411930f8dd/DAUS-2026-Proceedings.pdf#page=19), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Salzburg, Austria, 25–27 February 2026, Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay.
+
+- 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bAMQU8MAAAAJ&sortby=pubdate&citation_for_view=bAMQU8MAAAAJ:qUcmZB5y_30C), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Authors: A. James, A. Seth, et al.
+
+- 🤖 [ModCAM: Scalable Multi-UAV System for Cooperative Aerial Manipulation](https://doi.org/10.1007/978-3-032-17804-6_1), Novel Sensing for Robotics and Drones (Springer Book Chapter), Authors: A. James, A. Seth, E. Kuantama, R. Han, S. Mukhopadhyay.
+
+- 🌊 Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring, 13th IEEE Conference on Technologies for Sustainability (SusTech 2026), Authors: E. Kuantama, A. James, A. Seth, N. Hou, M. Bishop. DOI Coming Soon.
+
 
 ### 2025
 - 🚁 [Synchronized Mid-Air Drone Docking During Translational Motion](https://ieeexplore.ieee.org/document/11375893), 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), Authors: Avishkar Seth, Alice James, Endrowednes Kuantama, Richard Han, Subhas Mukhopadhyay, Chengdu, China, 2025, pp. 757-763.  
