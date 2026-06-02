@@ -84,6 +84,8 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 ### Venture Cafe, Sydney  
 - **Role**: Ambassador, **Time**: Aug 2019 – Dec 2021  
 
+## 📚 [Research Publications](https://scholar.google.com/citations?user=bAMQU8MAAAAJ&hl=en)
+
 ### 2026
 
 - 🚁 [Cooperative UAV Payload Transport with Autonomous Navigation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bAMQU8MAAAAJ&sortby=pubdate&citation_for_view=bAMQU8MAAAAJ:qUcmZB5y_30C), 2nd International Conference on Drones and Unmanned Systems (DAUS 2026), Authors: A. James, A. Seth, et al.
