@@ -7,7 +7,7 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 ## 🛠 Work Experience
 
 ### 🎓 Robotics Research Engineer @ Macquarie University  
-- 🚁 [Advanced Drone Systems Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems), Jan 2025 - Present: I'm working as a Senior Research Officer on multiple projects in the aerial robot autonomy and sensing space. Our centre has also received $2M+ in grant funding for the [Project Title: Autonomous Drone Battery Swap](https://lighthouse.mq.edu.au/media-releases/2025/july-2025/funding-set-to-revolutionise-drone-flight-technology) where I am the Principal Investigator.
+- 🚁 [Advanced Drone Systems Research Center](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/advanced-drone-systems), Jan 2025 - Present: I'm working as a Senior Research Officer on multiple projects in the aerial robot autonomy and sensing space. Our centre has also received $2M+ in grant funding for the [Project Title: Autonomous Drone Battery Swap](https://lighthouse.mq.edu.au/media-releases/2025/july-2025/funding-set-to-revolutionise-drone-flight-technology) where I am the Principal Investigator.
 
 ### 🎓 Research Assistant @ Macquarie University  
 - 🚁 [Autonomous Drone Landing Project](https://skyy.network/), Sept 2022 - Jan 2026: Engaged in an ARC-funded collaboration with Skyy Network to implement real-world testing of machine learning models for outdoor drone operations.  
@@ -60,6 +60,7 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 - 🥇 [**Intelligent and Adaptive Balanced Lift via Drone Swarms**](#), Provisional Patent Filed: MQC Ref: 2023005. Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han.
 
 ### 🎖 Awards & Competitions
+- 🥇 [**QUT Droid Racing Challenge**](https://qutrobotics.com/drc/2026), June 2026: **1st Place**. Mentored and participated as a member of the Macquarie University Robotics Club team.
 - 🥇 [**Travel Grant- AeroBridge, MobiCom 2024**](https://dl.acm.org/doi/10.1145/3636534.3649382), Nov 2024: **Au$5,000**. Awarded for presenting research at MobiCom 2024.
 - 🥇 [**QUT Droid Racing Challenge**](https://qutrobotics.com/drc/2024), July 2024: **3rd Place**. Mentored the Macquarie University Robotics Club team.
 - 🥇 [**Big Data Society Hackathon**](#), Mar 2020: **2nd Place**. AI-Enabled Education Hackathon; Awarded Au$1,700. 
@@ -92,7 +93,7 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 
 - 🤖 [ModCAM: Scalable Multi-UAV System for Cooperative Aerial Manipulation](https://doi.org/10.1007/978-3-032-17804-6_1), Novel Sensing for Robotics and Drones (Springer Book Chapter), Authors: A. James, A. Seth, E. Kuantama, R. Han, S. Mukhopadhyay.
 
-- 🌊 Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring, 13th IEEE Conference on Technologies for Sustainability (SusTech 2026), Authors: E. Kuantama, A. James, A. Seth, N. Hou, M. Bishop. DOI Coming Soon.
+- 🌊 [Multi-Modal Coordinated Sensing for Spatially-Aware Marine Monitoring](https://ieeexplore.ieee.org/abstract/document/11536245), 13th IEEE Conference on Technologies for Sustainability (SusTech 2026), Authors: E. Kuantama, A. James, A. Seth, N. Hou, M. Bishop.
 
 
 ### 2025
