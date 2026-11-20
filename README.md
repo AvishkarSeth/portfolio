@@ -61,6 +61,7 @@ Hey, fellow human! I'm [Avishkar Seth](https://avishkarseth.github.io/#home), a 
 - 🥇 **Intelligent and Adaptive Balanced Lift via Drone Swarms**, Provisional Patent Filed: MQC Ref: 2023004. Authors: Alice James, Avishkar Seth, Endrowednes Kuantama, Subhas Mukhopadhyay, Richard Han.
 
 ### 🎖 Awards & Competitions
+- 🥇 [**Avalon Airshow Innovation Pitchfest and Awards**](https://airshow.com.au/initiatives/connect/innovation-program/innovation-awards-sub/), Nov 2026: **Finalist**. Dronergy: Autonomous Mid-Air Drone Battery Service System, Macquarie University, at the Avalon Australian International Airshow.
 - 🥇 [**QUT Droid Racing Challenge**](https://qutrobotics.com/drc/2026), June 2026: **1st Place**. Mentored and participated as a member of the Macquarie University Robotics Club team.
 - 🥇 [**Travel Grant- AeroBridge, MobiCom 2024**](https://dl.acm.org/doi/10.1145/3636534.3649382), Nov 2024: **Au$5,000**. Awarded for presenting research at MobiCom 2024.
 - 🥇 [**QUT Droid Racing Challenge**](https://qutrobotics.com/drc/2024), July 2024: **3rd Place**. Mentored the Macquarie University Robotics Club team.
